@@ -1,9 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
+/* betty style doc for function main goes there */
 /**
- *
- * main - assigns a random number to int n everytime
+ * main - Entry point
  *
  * it executes, and prints it
  *
